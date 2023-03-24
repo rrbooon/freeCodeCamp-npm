@@ -1,9 +1,9 @@
 {
 	"author": "Rogerio Santos",
 	"name": "fcc-learn-npm-package-json",
-  "description": "This is a freeCodeCamp course project to help learn or improve the ability to manage packages with npm",
-  "keywords": ["freecodecamp", "course", "study"],
-  "license": "MIT",
+  	"description": "This is a freeCodeCamp course project to help learn or improve the ability to manage packages with npm",
+  	"keywords": ["freecodecamp", "course", "study"],
+  	"license": "MIT",
 	"version": "1.4.0",
 	"dependencies": {
 		"express": "^4.14.0"
